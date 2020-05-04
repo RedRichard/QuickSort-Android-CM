@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ejercicio Opcional</string>
+    <string name="add_number_text">Agrega un número</string>
+    <string name="number_entry">número</string>
+    <string name="add_button">Agregar</string>
+    <string name="order_button">Ordenar</string>
+    <string name="entry_error">Debe ser número (max 4 dígitos).</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Optional Exercise</string>
+    <string name="add_number_text">Add a number</string>
+    <string name="number_entry">number</string>
+    <string name="add_button">Add</string>
+    <string name="order_button">Order</string>
+    <string name="entry_error">Must be a number (max 4 digits).</string>
+</resources>
